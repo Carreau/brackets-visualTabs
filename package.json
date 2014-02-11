@@ -1,0 +1,9 @@
+{
+  "name": "carreau.visibletabs",
+  "title": "VisibleTabs",
+  "description": "Make tabs visible in CodeMirror",
+  "homepage": "",
+  "version": "0.0.1",
+  "author": "carreau (https://github.com/carreau)",
+  "license": "MIT"
+}
