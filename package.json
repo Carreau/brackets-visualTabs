@@ -3,7 +3,7 @@
   "title": "VisibleTabs",
   "description": "Make tabs visible in CodeMirror",
   "homepage": "https://github.com/Carreau/brackets-visualTabs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "carreau (https://github.com/carreau)",
   "license": "MIT"
 }
